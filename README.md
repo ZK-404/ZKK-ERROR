@@ -21,8 +21,8 @@ pip inatall Mechanize
 
 rm -rf AKING
 
-git clone https://github.com/AKING110/AKING
+git clone https://github.com/ZK-404/ZKK-ERROR
 
-cd AKING
+cd ZKK-ERROR
 
 python Brand.py
